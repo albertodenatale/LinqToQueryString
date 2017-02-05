@@ -1,0 +1,6 @@
+C:\projects\Application\LinqToQueryString\LinqToQueryString\bin\Debug\LinqToQueryString.exe.config
+C:\projects\Application\LinqToQueryString\LinqToQueryString\obj\Debug\LinqToQueryString.csprojResolveAssemblyReference.cache
+C:\projects\Application\LinqToQueryString\LinqToQueryString\bin\Debug\LinqToQueryString.exe
+C:\projects\Application\LinqToQueryString\LinqToQueryString\bin\Debug\LinqToQueryString.pdb
+C:\projects\Application\LinqToQueryString\LinqToQueryString\obj\Debug\LinqToQueryString.exe
+C:\projects\Application\LinqToQueryString\LinqToQueryString\obj\Debug\LinqToQueryString.pdb
